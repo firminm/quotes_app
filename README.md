@@ -1,6 +1,6 @@
 # quotes_app
 
-A new Flutter project.
+All manual code written in /lib/
 
 ## Getting Started
 
